@@ -1,0 +1,18 @@
+//
+//  RoutingApp.pch
+//  Routing App
+//
+//  Created by TacktileSystemsMac4 on 11/05/15.
+//  Copyright (c) 2015 Tacktile Systems. All rights reserved.
+//
+
+#ifndef Routing_App_RoutingApp_pch
+#define Routing_App_RoutingApp_pch
+
+//#define NSLog //
+#define TABLEWIDTH self.tableView.bounds.size.width
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
